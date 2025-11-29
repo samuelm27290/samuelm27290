@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-My name is <a href="https://www.linkedin.com/in/samuel-martin023/" target="_blank" rel="noopener noreferrer">Samuel Martin</a>
+My name is <a href="https://www.linkedin.com/in/samuel-martin023/" target="_blank" rel="noopener noreferrer">Samuel Martin</a>, and I am based in the United States.
+
+<strong>University of North Texas</strong> | Bachelor of Science | <em> Ecology for Environmental Science</em> 🌱 |  May 2025
+
+Very analytical and technical person who craves learning new subjects and ideas, primarily in science and technology-based fields.
+
+Recently finished and published a <a href="https://samuelm27290.github.io/Libri-Samuelis/" target="_blank" rel="noopener noreferrer">website</a> that displays and recommends all of the books that I currently have in my bookshelf.
+
+
 
 <!--
 **samuelm27290/samuelm27290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
