@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is <a href="https://www.linkedin.com/in/samuel-martin023/" target="_blank" rel="noopener noreferrer">Samuel Martin</a>
+
 <!--
 **samuelm27290/samuelm27290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
